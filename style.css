@@ -288,12 +288,10 @@ body {
     gap: 30px;
   }
   .content-product-left {
-    border: 1px solid #000;
     flex-basis: 100%;
     width: 100%;
   }
   .content-product-right {
-    border: 1px solid #000;
     flex-basis: 100%;
     width: 100%;
   }
